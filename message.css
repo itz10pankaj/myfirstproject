@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    background-color: antiquewhite;
+}
+.head{
+    display:flex;
+    flex-direction: row;
+    background-color: white;
+}
+/* #image1{
+    border-radius: 17ex;
+} */
+.head2{
+    color:red;
+    margin-left:30px;
+    margin-top: 70px;
+    padding: 5px;
+}
+.head3{
+    color:blue;
+    margin-left:30px;
+}
+.head4{
+    margin-left:30px;
+    margin-top: 5px;
+}
+.head5{
+    color:red;
+    margin-left:30px;
+    margin-top: 5px;
+}
+.navbar2{
+    background-color: brown;
+    height:25px;
+
+}
+.navbar2 ul{
+     overflow: auto;
+}
+.navbar2 li{
+    list-style: none;
+    float: left;
+}
+.head14{
+    color:white;
+    margin-left: 15px;
+    margin-top: 1px;
+
+}
+.head15{
+    text-decoration: none;
+    color:white;
+
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+}
+.head15:hover{
+    background-color: red;
+    padding: 3px;
+    border-radius: 2ex;
+}
+.navbar{
+    background-color: brown;
+    height:50px;
+}
+.navbar ul{
+     overflow: auto;
+}
+.navbar li{
+    list-style: none;
+    float: left;
+    padding: 5px 5px;
+     margin: .2cm;
+}
+.head6{
+ color:white;
+ padding: 5px 5px;
+}
+.head7{
+    text-decoration: none;
+    color:white;
+    margin-left: 15px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.head7:hover{
+    background-color: red;
+    padding: 7px;
+    border-radius: 3ex;
+/}
+.head8{
+    float:right;
+}
+#head9{
+    width:45px;
+    height:45px;
+    padding-top: 4px;
+    margin-right: 5px;
+}
+#head10{
+    width:45px;
+    height:45px;
+    padding: 4px;
+    margin-right: 3px;
+    margin-top: 2px;
+    border-radius: 2ex;
+}
+#head11{
+    width:45px;
+    height:45px;
+    padding: 4px;
+    margin-right: 3px;
+    margin-top: 2px;
+    border-radius: 2ex;
+
+}
+.message{
+    padding:15px;
+    font-size: 25px;
+}
+.navbar3{
+    background-color: brown;
+    height: 10px;
+}
+.campus{
+    display:flex;
+    flex-direction: row;
+    /* background-color: #b18686; */
+}
+.campus2{
+    margin-left:200px;
+    /* border-radius: 3ex; */
+    background-color:#b18686; 
+}
+.navbar4{
+    height:150px;
+    background-color: bisque;
+}
+.head16{
+    text-align: center;
+}
+.head17{
+    padding: 5px;
+    margin-left:4px;
+}
